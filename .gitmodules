@@ -1,0 +1,16 @@
+[submodule "aula02ex1_receitaDeBolo.txt"]
+	path = aula02ex1_receitaDeBolo.txt
+	url = git@github.com:Leoplugged/ZUP-aula02_Git.git
+	branch = main
+[submodule "listaJogos.txt"]
+	path = listaJogos.txt
+	url = git@github.com:Adriano-konig/aulaHojeExercicio2.git
+	branch = master
+[submodule "arquivoAleatorio.txt"]
+	path = arquivoAleatorio.txt
+	url = git@github.com:Adriano-konig/atividadeDupla_25_03.git
+	branch = main
+[submodule "testeDupla.txt"]
+	path = testeDupla.txt
+	url = git@github.com:Adriano-konig/atividadeDupla_25_03.git
+	branch = main
